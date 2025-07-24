@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+speechrecognition
+pandas
+langdetect
+joblib
